@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="name" type="id">name</item>
+    <item name="roll_no" type="id">roll_no</item>
+    <item name="marks" type="id" />
+    <item name="addbtn" type="id" />
+    <item name="viewbtn" type="id" />
+    <item name="viewallbtn" type="id" />
+    <item name="show1btn" type="id" />
+    <item name="deletebtn" type="id" />
+    <item name="modify" type="id" />
+</resources>
