@@ -1,6 +1,6 @@
 # Student_Manage App                                                                                                                                                               
 IT is a student Management App .
-That stores the detail to student such as name , rollno and marks.
+That stores the detail to student such as name, details, rollno and marks.
 It has features:-
 1.Add
 2.View 
