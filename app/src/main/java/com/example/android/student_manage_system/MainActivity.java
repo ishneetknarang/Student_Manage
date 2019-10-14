@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
 
     EditText ename, eroll_no, emarks;
     Button add, view, viewall, Show1, delete, modify;
-    SQLiteDatabase db;
+    SQLiteDatabase db;//database is stored here
 
 
     @Override
