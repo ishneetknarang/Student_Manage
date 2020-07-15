@@ -1,5 +1,6 @@
 # Student_Manage App                                                                                                                                                               
-IT is a student Management App .
+It is a student Management App .
+
 That stores the detail to student such as name, details, rollno and marks.
 It has features:-
 1.Add
@@ -7,3 +8,10 @@ It has features:-
 3.Modify 
 4.Delete
 5.View All
+
+#PROJECT REQUIREMENT
+1)android studio
+2)Fork the project
+3)Download files 
+4)build the gradle
+5)run the file
